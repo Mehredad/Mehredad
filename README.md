@@ -2,8 +2,6 @@
 
 # Welcome to Mehrdad Atariani's GitHub Profile
 
-![Profile Banner](https://www.mehrdad.uk/assets/profile-banner.jpg)
-
 ## About Me
 
 I am a T-shaped product and service designer specializing in User Experience (UX) and Service Design. My expertise encompasses digital service system development, data analysis and visualization, AWS foundations, data management systems, web technologies, and software development. I am passionate about blending empathy, code, and design to create people-centric experiences that humanize businesses and technologies.
@@ -12,16 +10,56 @@ I am a T-shaped product and service designer specializing in User Experience (UX
 - **LinkedIn:** [Mehrdad Atariani](https://www.linkedin.com/in/mehrdad-atariani/)
 
 ## Professional Experience
+**Nebra Academic & Toyify.UK**
 
-- **Toyify.uk** (Sep 2023 - Present): As a part-time Service Design Consultant, I transitioned 3D printing services into a new startup model, designing and developing the user experience and a fully functional platform using low-code CMS and custom JavaScript.
+- Toyify.UK: Spearheaded the design and development of a service transforming children's drawings into tangible playthings, enhancing user engagement and satisfaction.
 
-- **Nebra Academic** (Oct 2024 - Present): Provided advisory on service design improvement, guiding in defining target customers, identifying their needs and pain points, and exploring potential solutions through case studies.
+- Nebra Academic: Crafted comprehensive customer experience strategies, aligning educational offerings with user needs and expectations.
 
-- **IQVIA** (Nov 2023 - Aug 2024): Conducted user research and redesigned the internal web application of the IQVIA OMOP converter, focusing on accessibility enhancement and ease of use.
+- AI-Driven Service Blueprint Analyzer: Developed an AI-powered tool to analyze service blueprints, published research, and presented findings at the LSD & LAW 2025 workshop.
 
-- **Worley** (Mar 2022 - Aug 2023): Collaborated with cross-functional teams and facilitated the service design of Power2Product and NetZero projects.
+**Toyify, London, UK**
 
-- **Dreame** (Jul 2021 - Dec 2021): Conducted user research and facilitated the exploration and co-creation of new urban electric scooter products and services, conducting multiple workshops, focus groups, and user interviews.
+- Led the end-to-end design and development of a service converting children's drawings into tangible playthings, from concept to launch.
+
+- Established and implemented the company's visual brand and user experience strategy, ensuring consistency across all touchpoints.
+
+- Collaborated with cross-functional teams to ensure cohesive and user-centric product development, integrating feedback to refine the service.
+
+**IQVIA, Brighton, UK**
+
+- Enhanced user journeys and accessibility frameworks for the “OMOP Converter” platform, improving usability by 60%.
+
+- Led service design initiatives and facilitated stakeholder workshops, achieving a 30% reduction in task completion times.
+
+- Developed a visual framework and component library for UI interactions, resulting in a 60% higher satisfaction rate and a 30% decrease in time spent on dataset tasks.
+
+**Worley, London, UK**
+
+- Facilitated discovery and ideation workshops with project managers, sales, and subject matter experts, leading to effective service experience design and documentation.
+
+- Produced comprehensive documentation, including service blueprints and journey maps, to communicate customer needs, pain points, and solutions to development teams.
+
+**DREAME Tech, Remote**
+
+- Conducted focus groups to uncover user pain points, informing product improvements.
+
+- Facilitated co-creation sessions, leading to a 75% problem resolution rate.
+
+**LWT3, Milan, Italy**
+
+- Conducted user research for the 'sEMG tech' wearable device experience design project, including interviews with government bodies, employers, and assembly line workers to understand pain points.
+
+- Identified 'lack of trust' as a key hurdle, recommending increased transparency in the user experience to address this issue.
+
+- 🔭 I’m currently ending the computer science master's degree. 
+- 🌱 I’m currently developing an AI-Powered tool for UX and Service Design Project Analysis
+- 👯 I’m ready for full-time UX & Service Design positions
+- 🤔 I’m open for any advice or help with design and development startup projects
+- 💬 Ask me about anything 
+- 📫 How to reach me: better to email or DM on linkedin
+- 😄 Pronouns: He/him
+- ⚡ Fun fact: I am also a bartender and barista so always open for a drink 
 
 ## Key Projects
 
@@ -92,7 +130,6 @@ This tool enhances the productivity of UX teams by providing a centralized platf
 I am always open to discussions, collaborations, or a casual coffee chat. Feel free to reach out through any of the following channels:
 
 - **Email:** [Mehrdad.Atariani@gmail.com](mailto:Mehrdad.Atariani@gmail.com)
-- **Phone:** +44-07479933684
 - **LinkedIn:** [Mehrdad Atariani](https://www.linkedin.com/in/mehrdad-atariani/)
 
 Looking forward to connecting with you!
@@ -100,16 +137,4 @@ Looking forward to connecting with you!
 ---
 
 *Developed by Mehrdad Atariani*
-
-*Connect with me on [Facebook](https://www.facebook.com/mehrdad.atariani), [Twitter](https://twitter.com/mehrdad_atariani), and [Instagram](https://www.instagram.com/mehrdad.atariani/).*
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
