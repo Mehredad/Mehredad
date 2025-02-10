@@ -56,7 +56,7 @@ I am a T-shaped product and service designer specializing in User Experience (UX
 - 🔭 I’m currently ending the computer science master's degree. 
 - 🌱 I’m currently developing an AI-Powered tool for UX and Service Design Project Analysis
 - 👯 I’m ready for full-time UX & Service Design positions
-- 🤔 I’m open for any advice or help with design and development startup projects
+- 🤔 I’m open for giving advice or help with service design and development of startup projects
 - 💬 Ask me about anything 
 - 📫 How to reach me: better to email or DM on linkedin
 - 😄 Pronouns: He/him
