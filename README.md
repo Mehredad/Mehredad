@@ -52,6 +52,7 @@ I am a T-shaped product and service designer specializing in User Experience (UX
 
 - Identified 'lack of trust' as a key hurdle, recommending increased transparency in the user experience to address this issue.
 
+## A bit more about me
 - 🔭 I’m currently ending the computer science master's degree. 
 - 🌱 I’m currently developing an AI-Powered tool for UX and Service Design Project Analysis
 - 👯 I’m ready for full-time UX & Service Design positions
