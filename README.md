@@ -1,6 +1,6 @@
-## Hi there 👋
+#👋
 
-# Welcome to Mehrdad Atariani's GitHub Profile
+# Welcome to my GitHub Profile
 
 ## About Me
 
